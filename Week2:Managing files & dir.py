@@ -40,7 +40,8 @@ return varn
 print(new_directory("PythonPrograms", "script.py"))
 
 Output:
-['scripts.py']
+  
+['script.py']
 ************************************************************************************
 Question 4:
 the file_date function creates a new file in the current working directory, 
